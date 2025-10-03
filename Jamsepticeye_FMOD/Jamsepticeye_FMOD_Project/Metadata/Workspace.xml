@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="Workspace" id="{6b565279-8068-4b51-816b-25543bf3fbe2}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../Jamsepticeye_Project/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{e4dcc8f6-22c4-441e-b63e-813c0135999b}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{78c8c5ba-6739-495b-b1f1-b7cad31f5ea1}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{ef7fa8cd-3d2f-42e9-9cbf-d44b966dbde1}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{ad7d67ff-7228-478f-aa80-5880348c9d6c}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{349f768f-19fe-4675-aaa0-2eb664fe65b3}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{9db1fd06-d2b2-44fc-bc9b-50d7f480710e}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{832e1ecb-e30f-41af-baa6-ea6350892c11}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{b75e49b8-791b-461d-8618-7ef918da76f8}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{64823255-f22e-484d-93e3-4f44bcd5f73a}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{19a31e4e-00dd-4e00-8060-e0faf22b2b4d}</destination>
+		</relationship>
+	</object>
+</objects>
